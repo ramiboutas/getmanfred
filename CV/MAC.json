@@ -1,0 +1,130 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rami",
+      "surnames": "Boutassghount ",
+      "description": " Passionate engineer 👨🏽‍💻 I love building small software projects 📚💻📊 ",
+      "location": {
+        "notes": "Kempten (Germany)"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/ramiboutas/"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/12926426/ramiboutas"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/ramiboutas"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.englishstuff.online/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ramiboutas/"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.nicecv.online/"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.ramiboutas.com/en/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "German"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Django",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/ramiboutas/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/12926426/ramiboutas"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Celery",
+          "type": "technology"
+        },
+        {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
+          "name": "Nginx",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Redis",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
